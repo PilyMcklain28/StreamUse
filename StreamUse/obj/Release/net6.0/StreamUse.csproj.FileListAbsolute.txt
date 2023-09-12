@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\bin\Release\net6.0\StreamUse.exe
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\bin\Release\net6.0\StreamUse.deps.json
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\bin\Release\net6.0\StreamUse.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\bin\Release\net6.0\StreamUse.dll
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\bin\Release\net6.0\StreamUse.pdb
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\obj\Release\net6.0\StreamUse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\obj\Release\net6.0\StreamUse.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\obj\Release\net6.0\StreamUse.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\obj\Release\net6.0\StreamUse.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\obj\Release\net6.0\StreamUse.dll
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\obj\Release\net6.0\refint\StreamUse.dll
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\obj\Release\net6.0\StreamUse.pdb
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\obj\Release\net6.0\StreamUse.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Prueba C#\StreamUse\StreamUse\obj\Release\net6.0\ref\StreamUse.dll
